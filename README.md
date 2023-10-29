@@ -2,16 +2,19 @@
 <h3 align="center">A Coding and Open Source Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan-crj&label=Profile%20views&color=0e75b6&style=flat" alt="ankan-crj" /> </p>
+
 - 🌱 I’m currently learning **JavaScript,HTML,CSS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **https://linktr.ee/ankan_biswas**
+- 📫 Reach me at **https://linktr.ee/ankan_biswas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankan_crj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankan_crj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/theankanbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/theankanbiswas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theankanbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theankanbiswas" height="30" width="40" /></a>
 <a href="https://instagram.com/ankan_crj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankan_crj" height="30" width="40" /></a>
 <a href="https://discord.gg/896222469302665286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="896222469302665286" height="30" width="40" /></a>
 </p>
