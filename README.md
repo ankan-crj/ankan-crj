@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ankan Biswas
 - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning HTML/CSS and JavaScipt
-- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Connect with me at https://linktr.ee/ankan_biswas 
 
 <!---
