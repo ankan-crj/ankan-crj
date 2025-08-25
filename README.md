@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/ankan_crj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankan_crj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theankanbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theankanbiswas" height="30" width="40" /></a>
-<a href="https://instagram.com/ankan_crj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankan_crj" height="30" width="40" /></a>
 <a href="https://discord.gg/users/896222469302665286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/896222469302665286" height="30" width="40" /></a>
 </p>
 
